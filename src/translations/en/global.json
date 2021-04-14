@@ -1,1 +1,35 @@
-{}
+{
+    "header": {
+        "categoriesText": "TV14 • Comedy • Animation • Adult Animation • Adventure • Science Fiction • TV Series • 2013",
+        "sinopsisText": "Rick and Morty is a show about a sociopathic scientist who drags his unintelligent grandson on insanely dangerous adventures across the universe. Created and executive produced by Dan Harmon (Community, Channel 101) and Justin Roiland (House of Cosbys).",
+        "btnPreviewSeason": "View Trailer",
+        "lngSpanish": "Spanish",
+        "lngEnglish": "English"
+    },
+    "tabs": {
+        "episodes": "Episodes",
+        "characters": "Characters",
+        "locations": "Locations"
+    },
+    "episodes": {
+        "table": {
+            "title": "Episodes List",
+            "name": "Name",
+            "search": "Search...",
+            "episode": "Episode",
+            "air_date": "Air date"
+        }
+    },
+    "characters": {
+        "actions": {
+            "prev": "Previous",
+            "next": "Next"
+        }
+    },
+    "locations": {
+        "actions": {
+            "prev": "Previous",
+            "next": "Next"
+        }
+    }
+}
